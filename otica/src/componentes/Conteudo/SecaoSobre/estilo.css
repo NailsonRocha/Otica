@@ -1,0 +1,40 @@
+.sobre
+{
+    text-align: center;
+    display: flex;
+    flex-flow: wrap;
+    justify-content: center;
+}
+
+.titulo-sobre
+{
+    text-align: center;
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.imagem-sobre
+{
+    width: 400px;
+    height: 250px
+}
+
+.caixa-sobre
+{
+    width: 80%;
+    display: flex;
+    flex-flow: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.box1, .box2, .box3, .box4
+{
+    display: flex;
+    flex-flow: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 400px;
+    height: 250px;
+    box-sizing: border-box;
+}

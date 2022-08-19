@@ -1,0 +1,51 @@
+.produtos
+{
+    display: flex;
+    flex-flow: wrap;
+    justify-content: center;
+    align-items: center;
+
+}
+.oculos-produtos
+{
+    width: 100%;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-evenly;
+    text-align: center;
+}
+.expositor
+{
+    margin: 100px;
+    box-shadow: 0px 1px 5px black;
+    border-radius: 5px;
+}
+.description
+{
+    width: 100%;
+    height: auto;
+    text-align: center;
+}
+
+.imagem-produtos
+{
+    width: 300px;
+    height: 130px;
+    margin: 5px;
+}
+
+.lista-produto
+{
+    width: 100%;
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    box-shadow: 0px 1px 10px black;
+}
+
+.lista-produtos
+{
+    width: 35%;
+}

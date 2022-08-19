@@ -1,0 +1,35 @@
+.box-header
+{
+    display: flex;
+    justify-content: space-between;
+}
+.header 
+{
+    display: flex;
+    justify-content: center;
+}
+
+.img-header
+{
+    width: 25%;
+    margin: 10px;
+}
+
+.nav-header
+{
+    width: 50%;
+    height: auto;
+    display:  flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 10px;
+    
+}
+
+.a-header
+{
+    flex-direction: row;
+    justify-content: space-around;
+    text-decoration: none;
+    color: black;
+}

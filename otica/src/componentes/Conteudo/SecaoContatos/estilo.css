@@ -1,0 +1,28 @@
+.contatos
+{
+    background: #191970;
+    display: flex;
+    flex-flow: wrap;
+    justify-content: center;
+    text-align: center;
+}
+
+.titulo-contatos
+{
+    width: 100%;
+}
+
+.logo-contato
+{
+    width: 20px;
+    height: auto;
+    margin-right: 5px;
+}
+
+.figure
+{
+    display: flex;
+    justify-content: flex-start;
+    padding: 5px;
+}
+
